@@ -12,3 +12,12 @@ p, a, li {
     line-height: 1.5em;
     font-size: 1.1em;
 }
+
+header {
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+body {
+    margin: 5px;
+}
