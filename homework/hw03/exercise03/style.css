@@ -12,3 +12,8 @@ body {
 }
 
 /* create additional rules below:  */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital@1&display=swap');
+
+h1, h2 {
+    font-family: 'Crimson Pro', serif;
+}
