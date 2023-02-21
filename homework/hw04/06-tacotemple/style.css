@@ -9,7 +9,7 @@ main {
 
 section {
     display: grid;
-    grid-template-columns: 2fr, 1fr;
+    grid-template-columns: auto 180px;
     border: solid 1px lightgrey;   
     margin: 10px;
 }
