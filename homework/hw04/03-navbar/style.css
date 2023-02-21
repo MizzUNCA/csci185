@@ -24,7 +24,7 @@ ul {
     display: flex;
     list-style-type: none;
     width: 30vh;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 nav, h1, ul, li {
